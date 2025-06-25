@@ -1,5 +1,8 @@
 # 彭蠡文楷 / Pengli WenKai
 基於《霞鶩文楷》系列字體衍生，參考《古籍印刷通用字規範字形表》（GB/Z 40637-2021）收字和調整字形的開源字體。
+
+[![开源授权](https://img.shields.io/github/license/lxgw/Pengli?style=flat-square)](https://github.com/lxgw/Pengli)
+[![最新版](https://img.shields.io/github/release/lxgw/Pengli?style=flat-square)](https://github.com/lxgw/Pengli/releases)
 ## 簡介
 《彭蠡文楷》是基於《霞鶩文楷》系列字體衍生，根據《古籍印刷通用字規範字形表》（GB/Z 40637-2021）調整字形的開源字體，是 Fontworks（現日本蒙納株式會社，Monotype K.K.）所發佈的開源字體 [Klee One](https://github.com/fontworks-fonts/Klee) 的三次衍生字體。
 
