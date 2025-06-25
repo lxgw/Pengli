@@ -1,7 +1,3 @@
-![](/pengli.png)
-
-以下内容僅供參考，在《彭蠡文楷》正式發佈前可能會有所變動。 
-
 # 彭蠡文楷 / Pengli WenKai
 基於《霞鶩文楷》系列字體衍生，參考《古籍印刷通用字規範字形表》（GB/Z 40637-2021）收字和調整字形的開源字體。
 ## 簡介
@@ -21,7 +17,13 @@
 - 易經、太玄經、算籌、中國象棋、中國傳統圓形吉祥圖案等符號；
 - 用於古籍頁碼排版的二分扁體漢數字「〇～九」，通過 `nalt` 特性調用。
 ## 預覽
-> UNDER CONSTRUCTION
+![](/documentation/pengli-1.PNG)
+![](/documentation/pengli-2.PNG)
+![](/documentation/pengli-3.PNG)
+![](/documentation/pengli-4.PNG)
+![](/documentation/pengli-5.PNG)
+![](/documentation/pengli-6.PNG)
+![](/documentation/pengli-7.PNG)
 ## 獲取字體
 1. 進入 [Releases](https://github.com/lxgw/pengli/releases) 頁面下載 TTF 格式字體文件。
 2. 本項目倉庫「FCP」文件夾中提供 FCP 格式的[字體工程文件](FCP/pengli.fcp)，便於二次開發字體。需要 14.0.0.2901 及更高版本的 FontCreator。
