@@ -17,13 +17,13 @@
 - 易經、太玄經、算籌、中國象棋、中國傳統圓形吉祥圖案等符號；
 - 用於古籍頁碼排版的二分扁體漢數字「〇～九」，通過 `nalt` 特性調用。
 ## 預覽
-![](/documentation/pengli-1.PNG)
-![](/documentation/pengli-2.PNG)
-![](/documentation/pengli-3.PNG)
-![](/documentation/pengli-4.PNG)
-![](/documentation/pengli-5.PNG)
-![](/documentation/pengli-6.PNG)
-![](/documentation/pengli-7.PNG)
+![](./documentation/pengli-1.PNG)
+![](./documentation/pengli-2.PNG)
+![](./documentation/pengli-3.PNG)
+![](./documentation/pengli-4.PNG)
+![](./documentation/pengli-5.PNG)
+![](./documentation/pengli-6.PNG)
+![](./documentation/pengli-7.PNG)
 ## 獲取字體
 1. 進入 [Releases](https://github.com/lxgw/pengli/releases) 頁面下載 TTF 格式字體文件。
 2. 本項目倉庫「FCP」文件夾中提供 FCP 格式的[字體工程文件](FCP/pengli.fcp)，便於二次開發字體。需要 14.0.0.2901 及更高版本的 FontCreator。
@@ -51,7 +51,7 @@
 - 部分部件或整體字形借用 [芫荽 / Iansui](https://github.com/ButTaiwan/iansui)、[芫茜雅楷 / JyunsaiKaai](https://github.com/ItMarki/jyunsaikaai) 或 [Y 式筆書體](https://github.com/Steve-Yuu/YshiPen-Shuti)；
 - 古漢語標點符號、吉祥圖案在 [煮豆黑體](https://github.com/Buernia/Zhudou-Sans) 基礎上衍生。
 
-![Made with FontCreator](/documentation/FontCreator_Badge_01.png)
+<img src="./documentation/FontCreator_Badge_01.png" width = "300" height = "92.39" alt="Made with FontCreator" align=center />
 ## 相關資料
 - [GB/Z 40637-2021 古籍印刷通用字規範字形表](https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=52E2DE28D439C1937EE09AE4B5AA615B)
 - [GB/T 12345-1990 信息交換用漢字編碼字符集 輔助集](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=90394D2B4115D9291C825A7651AEFE4B)
