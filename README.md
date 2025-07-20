@@ -19,7 +19,7 @@
 - 現代標點符號，以及古代漢語勾乙號「𖿢」、重文號「𖿣」；
 - 易經、太玄經、算籌、中國象棋、中國傳統圓形吉祥圖案等符號；
 - 用於古籍頁碼排版的二分扁體漢數字「〇～九」，通過 `nalt` 特性調用；
-- 用於詩詞曲聯韻律標記的帶圈連字「平⃝」「仄⃝」「去⃝」「入⃝」（平仄去入），通過 `ccmp` 特性調用，配合已經收錄於 Unicode 的帶圈字「㊤」「㊥」使用（於 [v1.005](https://github.com/lxgw/Pengli/releases/tag/v1.005) 加入）。
+- （於 [v1.005](https://github.com/lxgw/Pengli/releases/tag/v1.005) 加入）用於詩詞曲聯韻律標記的帶圈連字「平⃝」「仄⃝」「去⃝」「入⃝」（平仄去入），通過 `ccmp` 特性調用，配合已經收錄於 Unicode 的帶圈字「㊤」「㊥」使用。
 ## 預覽
 ![](./documentation/pengli-1.PNG)
 ![](./documentation/pengli-2.PNG)
