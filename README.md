@@ -20,7 +20,7 @@
 - 易經、太玄經、算籌、中國象棋、中國傳統圓形吉祥圖案等符號；
 - 用於古籍頁碼排版的二分扁體漢數字「〇～九」，通過 `nalt` 特性調用；
 - （於 [v1.005](https://github.com/lxgw/Pengli/releases/tag/v1.005) 加入）用於詩詞曲聯韻律標記的帶圈連字「平⃝」「仄⃝」「去⃝」「入⃝」（平仄去入），通過 `ccmp` 特性調用，配合已經收錄於 Unicode 的帶圈字「㊤`U+32A4`」「㊥`U+32A5`」使用。  
-<img width="499" height="104" alt="image" src="https://github.com/user-attachments/assets/10598ded-b670-498f-98fe-36e934ec48a8" />
+  <img width="499" height="104" alt="image" src="https://github.com/user-attachments/assets/10598ded-b670-498f-98fe-36e934ec48a8" />
 
 ## 預覽
 ![](./documentation/pengli-1.PNG)
