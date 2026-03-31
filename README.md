@@ -58,7 +58,9 @@
 - 古漢語標點符號、吉祥圖案在 [煮豆黑體](https://github.com/Buernia/Zhudou-Sans) 基礎上衍生。
 
 <div  align="center">
-<img src="./documentation/FontCreator_Badge_01.png" width = "300" height = "92.39" alt="Made with FontCreator" align=center />
+<a href="https://www.high-logic.com/font-editor/fontcreator">
+  <img src="./documentation/FontCreator_Badge_01.png" width = "300" height = "92.39" alt="Made with FontCreator" align=center />
+</a>
 </div>
 
 ## 相關資料
