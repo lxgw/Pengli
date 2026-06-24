@@ -40,7 +40,7 @@
 4. 本字體不收錄簡化字，也不收錄除拉丁、漢字和注音符號以外的其他文種（如日文假名等）。
 5. 本字體只提供單字重，没有製作多字重的計劃，個人認爲利用機械加粗或減細的方法實現多字重意義不大，且徒增維護負擔。
 ## 授權信息
-本字體在 FONTWORKS 開發並發佈的 [Klee](https://github.com/fontworks-fonts/Klee) 開源項目基礎上改造，採用 [SIL Open Font License 1.1](https://openfontlicense.org) 授權許可。Klee 是 FONTWORKS 的商標。
+本字體在 FONTWORKS 開發並發佈的 [Klee](https://github.com/fontworks-fonts/Klee) 及其衍生字體 [霞鶩文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenKaiGB) 開源項目基礎上改造，採用 [SIL Open Font License 1.1](https://openfontlicense.org) 授權許可。Klee 是 FONTWORKS 的商標。
 > [Florence 弗羅侖司](http://florenceko.me/)提供 SIL Open Font License 1.1 非官方[全文中文翻譯](http://florenceko.me/?p=2089)及[解讀](http://florenceko.me/?p=2122)供參考。[猫啃網](https://www.maoken.com/)亦提供 SIL Open Font License 1.1 非官方[簡體中文譯本](https://www.maoken.com/ofl)。
 ### 許可
 - 這款字體無論是個人還是企業都可以自由商用，無需付費，也無需知會或者標明原作者。（但如果告知，我會很感激。🫶）
