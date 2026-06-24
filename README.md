@@ -43,12 +43,12 @@
 本字體在 FONTWORKS 開發並發佈的 [Klee](https://github.com/fontworks-fonts/Klee) 開源項目基礎上改造，採用 [SIL Open Font License 1.1](https://openfontlicense.org) 授權許可。Klee 是 FONTWORKS 的商標。
 > [Florence 弗羅侖司](http://florenceko.me/)提供 SIL Open Font License 1.1 非官方[全文中文翻譯](http://florenceko.me/?p=2089)及[解讀](http://florenceko.me/?p=2122)供參考。[猫啃網](https://www.maoken.com/)亦提供 SIL Open Font License 1.1 非官方[簡體中文譯本](https://www.maoken.com/ofl)。
 ### 許可
-- 這款字體無論是個人還是企業都可以自由商用，無需付費，也無需知會或者標明原作者。 *（但如果告知，我會很感激。）*
-- 這款字體可以自由傳播、分享，或者將字體安裝於硬件系統、嵌入於軟件或 APP 也是允許的，可以與任何軟件捆綁再分發以及／或一併銷售。
-- 這款字體可以自由修改、改造，製作衍生字體。修改或改造後的字體也必須同樣以 [SIL OFL](https://openfontlicense.org) 公開。
+- 這款字體無論是個人還是企業都可以自由商用，無需付費，也無需知會或者標明原作者。（但如果告知，我會很感激。🫶）
+- 這款字體可以自由傳播、分享，或者將字體安裝於系統、嵌入於軟件或 APP 中也是允許的，可以與任何軟件捆綁再分發以及／或一併銷售。
+- 這款字體可以自由修改、改造，製作衍生字體。修改或改造後的字體也必須同樣遵守 [SIL Open Font License 1.1](https://openfontlicense.org/open-font-license-official-text/) 所規定的條款與條件。
 ### 限制
-- 根據 [SIL Open Font License 1.1](https://openfontlicense.org) 「許可與條件」中第 1 條的規定， **禁止單獨出售字文件(OTF/TTF文件)的行爲。**
-- 該字體不可在 [SIL Open Font License 1.1](https://openfontlicense.org) 以外的授權許可下發行。
+- 根據 OFL 1.1「許可與條件」中第 1 條的規定，**禁止單獨出售字體文件**（OTF/TTF 格式文件）。
+- 根據 OFL 1.1「許可與條件」中第 5 條的規定，該字體不可在 OFL 1.1 以外的授權許可下發行，亦不可將該字體與可能造成許可證衝突的其他協議字體（如 GNU GPL、IPA 等）混合至同一字體文件。
 ## 鳴謝
 - [日本蒙納株式會社](http://fontworks.co.jp) 提供原版開源字體； [開發者 GitHub 主頁](https://github.com/fontworks-fonts/)
 - 原始字體的設計師周建豪（Francis Chow）先生；
