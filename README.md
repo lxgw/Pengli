@@ -44,7 +44,7 @@
 > [Florence 弗羅侖司](http://florenceko.me/)提供 SIL Open Font License 1.1 非官方[全文中文翻譯](http://florenceko.me/?p=2089)及[解讀](http://florenceko.me/?p=2122)供參考。[猫啃網](https://www.maoken.com/)亦提供 SIL Open Font License 1.1 非官方[簡體中文譯本](https://www.maoken.com/ofl)。
 ### 許可
 - 這款字體無論是個人還是企業都可以自由使用，包括商用，無需付費，也無需另行知會原作者。（但如果告知，我會很感激。🫶）
-- 這款字體可以自由傳播、分享，或者將字體安裝於系統、嵌入於軟件或 APP 中也是允許的，可以與任何軟件捆綁再分發以及／或一併銷售。
+- 這款字體可以自由傳播、分享，可安裝于系統、嵌入軟件或 APP 中，也可與任何軟件捆綁再分發或一幷銷售。（再分發時需附帶 [OFL.txt](./OFL.txt) 全文。）
 - 這款字體可以自由修改、改造，製作衍生字體。修改或改造後的字體也必須同樣遵守 [SIL Open Font License 1.1](https://openfontlicense.org/open-font-license-official-text/) 所規定的條款與條件。
 ### 限制
 - 根據 OFL 1.1「許可與條件」中第 1 條的規定，**禁止單獨出售字體文件**（OTF/TTF 格式文件）。
